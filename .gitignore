@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+
+# Other
+*.log/.vs/slnx.sqlite
+
+*.db
